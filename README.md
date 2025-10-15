@@ -1,1 +1,1 @@
-The code and pretrained models will be released soon after publication.
+The code will be released soon after publication.
